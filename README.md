@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Arquitecto de Automatización de Datos | Ingeniero Backend e IA
 
-Soy un desarrollador backend de Lima, Perú, y estudiante de Ingeniería en Ciberseguridad (UPC). Me especializo en Python, ingeniería de datos, visión computacional y automatización. Construyo pipelines de extracción robustos, integro modelos de IA locales y diseño sistemas resilientes utilizando metodologías 12-factor app y arquitecturas orientadas a objetos.
+Soy un desarrollador backend de Lima, Perú, y estudiante de Ingeniería de Sistemas (UPC). Me especializo en Python, ingeniería de datos, visión computacional y automatización. Construyo pipelines de extracción robustos, integro modelos de IA locales y diseño sistemas resilientes utilizando metodologías 12-factor app y arquitecturas orientadas a objetos.
 
 ### 🛠️ Tecnologías y Habilidades
 
@@ -34,7 +34,7 @@ Soy un desarrollador backend de Lima, Perú, y estudiante de Ingeniería en Cibe
 
 ### 👨‍💻 Data Automation Architect | Backend & AI Engineer
 
-I am a self-driven backend developer from Lima, Peru, and a Cybersecurity Engineering student (UPC). I specialize in Python, data engineering, computer vision, and automation. I build robust data extraction pipelines, integrate local AI models, and architect resilient systems using 12-factor app methodologies and object-oriented architectures.
+I am a self-driven backend developer from Lima, Peru, and a Systems Engineering student (UPC). I specialize in Python, data engineering, computer vision, and automation. I build robust data extraction pipelines, integrate local AI models, and architect resilient systems using 12-factor app methodologies and object-oriented architectures.
 
 ### 🛠️ Tech Stack & Skills
 
