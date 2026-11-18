@@ -21,7 +21,6 @@ Soy un desarrollador backend de Lima, Perú, y estudiante de Ingeniería de Cibe
 
 *   🛡️ **[py-net-recon](https://github.com/francisc0-PE/py-net-recon):** Un escáner multihilo de reconocimiento de red y superficie de ataque desarrollado en Python puro. Cuenta con interfaz CLI avanzada (`argparse`), motor dinámico de puertos/rangos, banner grabbing de servicios, arquitectura de hilos paralelos (`ThreadPoolExecutor`) y generación de reportes forenses automatizados. Documentación completa en 4 idiomas (ES, EN, FR, CN).
 *   🚁 **[Drone AI Vision](https://github.com/francisc0-PE/drone-ai-vision):** Un sistema de vigilancia avanzado simulado con drones usando YOLOv8-Pose. Implementa procesamiento multihilo continuo, heurística espacial por anatomía, memoria de estado permanente (POO) y soporte CLI. Diseñado con un enfoque ético de "Human-in-the-loop".
-*   🏢 **[Lima Real Estate Lead Pipeline](https://github.com/francisc0-PE/lima-real-estate-pipeline):** Un pipeline de datos modular y resiliente en Python que agrega listados inmobiliarios públicos y datos de registros de empresas, transformándolos en datasets B2B deduplicados. Incluye limitación de tasa (rate limiting), circuit breakers y caché basado en TTL.
 
 ### 📫 Conectemos
 
@@ -51,7 +50,6 @@ I am a self-driven backend developer from Lima, Peru, and a Cybersecurity Engine
 
 *   🛡️ **[py-net-recon](https://github.com/francisc0-PE/py-net-recon):** A multi-threaded network reconnaissance and attack surface scanner built in pure Python. It features an advanced CLI interface (`argparse`), dynamic port/range parsing, service banner grabbing, parallel threading architecture (`ThreadPoolExecutor`), and automated forensic report generation. Fully documented in 4 languages (ES, EN, FR, CN).
 *   🚁 **[Drone AI Vision](https://github.com/francisc0-PE/drone-ai-vision):** An advanced simulated drone surveillance system using YOLOv8-Pose. It features seamless multithreaded processing, anatomy-based spatial heuristics, permanent state memory (OOP), and CLI support. Architected with an ethical "Human-in-the-loop" approach.
-*   🏢 **[Lima Real Estate Lead Pipeline](https://github.com/francisc0-PE/lima-real-estate-pipeline):** A modular, resilient Python data pipeline that aggregates public real-estate listings and formal company registry data, transforming them into clean, deduplicated B2B CSV datasets. Features include rate limiting, circuit breakers, and TTL-based caching.
 
 ### 📫 Let's Connect
 
